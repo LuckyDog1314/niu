@@ -1,0 +1,18 @@
+ATMD爱听API
+高德API
+Jsper联通M2M API
+酷我音乐API
+nginx配置（Linux）
+1.	负载均衡 + FailOver配置
+2.	限制特定地址的连接数，并发数，带宽的配置
+3.	反向代理配置
+4.	证书配置，实现HTTPS的证书单向/双向认证
+框架工作内容
+1.     在springboot上实现websocket接入，实现websocket请求接入，alivecheck应答及检查
+2.     实现使用apache httpclient访问url的共通方法，要求支持http parameter以及JSON这两种传参数的方式
+前台：
+基于HTML+JS的方式实现文件的断点续传功能
+后台：
+实现文件上传及下载的功能
+
+Properties Editor
